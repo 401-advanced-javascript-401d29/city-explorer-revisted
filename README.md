@@ -2,6 +2,9 @@
 =================================================
 # City Explorer Revisited
 
+## Task
+Redo the front end of an existing site in React without changing the appearance or functionality.
+
 ### Author:
 Erin Trainor
 
