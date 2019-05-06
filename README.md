@@ -18,7 +18,7 @@ Erin Trainor
 [React Code Sandbox](https://codesandbox.io/s/ymmmp031yj)
 
 ### UML
-![UML IMAGE](./assets/um.jpg) 
+![UML IMAGE](./um.jpg) 
 
 
 
